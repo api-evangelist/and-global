@@ -6,16 +6,16 @@
       "feed_url": "https://and.global/feed/",
       "title": "",
       "saved": 0,
-      "method": "none"
+      "method": "feed"
     },
     {
       "source": "https://and.global/",
-      "feed_url": "https://and.global/",
+      "feed_url": "https://and.global/feed/",
       "title": "",
       "saved": 0,
-      "method": "none"
+      "method": "discovered"
     }
   ],
   "post_count": 10,
-  "fetched": "2026-08-22T20:20:02Z"
+  "fetched": "2026-08-30T22:33:40Z"
 }
