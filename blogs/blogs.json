@@ -3,28 +3,14 @@
   "feeds": [
     {
       "source": "https://and.global/",
-      "feed_url": "https://and.global/blog/feed/",
+      "feed_url": "https://and.global/",
       "title": "",
       "saved": 0,
-      "method": "discovered"
-    },
-    {
-      "source": "https://and.global/blog/feed/",
-      "feed_url": "https://and.global/blog/feed/",
-      "title": "",
-      "saved": 0,
-      "method": "feed"
-    },
-    {
-      "source": "https://and.global/feed/",
-      "feed_url": "https://and.global/feed/",
-      "title": "",
-      "saved": 0,
-      "method": "feed"
+      "method": "none"
     }
   ],
   "post_count": 10,
-  "fetched": "2026-09-19T20:17:39Z",
+  "fetched": "2026-10-03T12:30:02Z",
   "feed_nature": "undetermined",
   "feed_nature_basis": null,
   "feed_nature_note": "Whether these posts are the vendor publishing or its support community, decided on the URL path grammar of the saved posts -- not the hostname, which carries both on Khoros, and not author diversity, which flags large vendor blogs as forums. 'undetermined' means undetermined."
